@@ -13,11 +13,12 @@ Research Interests
 ======
 My research focuses on two directions:
 
-- **Multimodal Learning**, with a focus on advancing multimodal reasoning and aligning representations to capture intricate real-world concepts.
-- **Multi-Agent Systems**, specifically collaborative multi-agent systems that enhance multimodal reasoning capabilities to decompose and solve complex real-world tasks.
+- **World Models**, with a focus on learning how the world evolves to reliably predict plausible future.
+- **Multi-Agent Systems**, especially collaborative multi-agent systems that decompose and solve multimodal real-world tasks.
 
 Latest News
 ======
+- **[2026-08]** Started my Ph.D. at [Pennsylvania State University](https://www.psu.edu/). 🎉
 - **[2026-07]** One paper was accepted by [ACM Multimedia 2026](https://2026.acmmm.org/).
 - **[2026-02]** PosterGen was accepted by [CVPR 2026](https://cvpr.thecvf.com) findings.
 - **[2025-08]** Our paper "PosterGen: Aesthetic-Aware Paper-to-Poster Generation via Multi-Agent LLMs" has been released! 👉 [arXiv](https://arxiv.org/abs/2508.17188) / [Code](https://github.com/Y-Research-SBU/PosterGen) /  [Website](https://y-research-sbu.github.io/PosterGen)
