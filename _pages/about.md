@@ -12,9 +12,8 @@ Hi! I'm a CS PhD student at [Pennsylvania State University](https://www.psu.edu/
 Research Interests
 ======
 My research focuses on two directions:
-
-- **World Models**, with a focus on learning how the world evolves to reliably predict plausible future.
-- **Multi-Agent Systems**, especially collaborative multi-agent systems that decompose and solve multimodal real-world tasks.
+- **World Models** that learn how the world evolves to reliably predict plausible future.
+- **Multi-Agent Systems**, especially collaborative multi-agent systems that can decompose, plan on and solve multimodal real-world tasks.
 
 Latest News
 ======
